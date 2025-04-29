@@ -1,1 +1,4 @@
 theme: minima
+'''
+from math import random
+'''
